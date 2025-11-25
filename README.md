@@ -110,6 +110,9 @@ All rights and credits for the original material belong to **Wes McKinney**,
 
 If you notice improvements, corrections, or would like to contribute,  
 please feel free to open an issue — constructive feedback is always welcome. 🙌
+To install the modules necessary to work with this repo, you'll need this command
+and the file requirements.txt inside your folder:
+pip install -r requirements.txt
 
 ---
 
