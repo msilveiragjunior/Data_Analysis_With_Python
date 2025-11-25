@@ -20,3 +20,12 @@ arrays.
 If we did the .append method with a new list, it would be almost 25
 times slower than with NumPY.
 """
+# --- ndarray --- #
+"""
+The ndarray is an object that represents a multidimensional
+array, it a type and a shape (it's measurements).
+Basically, it's a scalar value.
+Let's show it in a .py code with randn function.
+The randn function generates random numbers from
+a standard normal distribution - or a gaussian distribution.
+"""
