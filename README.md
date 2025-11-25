@@ -20,114 +20,103 @@
 
 </p>
 
-🐍 Python for Data Analysis - Structured Learning Project
+# 🐍 Python — Data Analysis Learning Project  
 
-Bridging foundational Python, scientific computing, and practical data analysis
-A personal synthesis project combining structured learning, coding practice, and clear documentation.
+> **Mastering data analysis using Python’s scientific ecosystem**  
+> A personal synthesis project combining structured learning, hands-on exploration, and clear documentation.
 
-📘 Overview
+---
 
-Every year, I revisit the foundations of Python through focused and concise projects.
-In past repositories, I summarized books such as
-Python Crash Course (Eric Matthes, Novatec) and
-SQL for Data Analysis (Cathy Tanimura, O’Reilly).
+## 📘 Overview
 
-This new project continues that tradition — now inspired by
-Python for Data Analysis, 2nd Edition
-(O’Reilly Media, 2018 — ISBN 978-1-491-95766-0)
-by Wes McKinney, the creator of pandas.
+Every year, I revisit the **foundations of Python** through small, focused projects.  
+In my previous repository, I explored _**Python Crash Course**_ by **Eric Matthes** (Novatec), 
+and SQL for Data Analysis (Cathy Tanimura, O’Reilly),  
+summarizing its essential lessons with concise and functional code examples.
 
-🧠 The goal: learn and reinforce data analysis techniques using Python’s scientific ecosystem,
-synthesizing the book’s concepts into clear explanations and practical code examples.
+This new project continues that tradition - now inspired by  
+_**Python for Data Analysis, 2nd Edition**_ by **Wes McKinney**  
+(O’Reilly Media, 2018 — ISBN `978-1-491-95766-0`).  
 
-🎯 Purpose
+> 🧠 The goal: build a strong, practical foundation in **Python-based data analysis**,  
+> using the core scientific libraries that power modern analytics workflows.
 
-This repository does not reproduce the book’s content verbatim.
-Instead, it mirrors its conceptual structure while applying each idea in a
-hands-on, modern, and Pythonic workflow.
+---
 
-Objectives:
+## 🎯 Purpose
 
-Strengthen understanding of data structures, cleaning, and transformation
+This repository does **not** reproduce the book’s content verbatim.  
+Instead, it follows its conceptual structure while translating its ideas into  
+**clean, tested, Pythonic examples**.
 
-Practice exploratory analysis using pandas, NumPy, and matplotlib
+**Objectives:**
 
-Bridge statistical reasoning with real code using SciPy, statsmodels, and scikit-learn
+- Strengthen understanding of **data manipulation, cleaning, and exploration**  
+- Master the **scientific Python stack** used by analysts and data scientists  
+- Build a **portfolio-ready reference** of well-structured notebooks and scripts  
+- Develop skill through **synthesis**, not memorization  
 
-Create a portfolio-ready artifact that demonstrates analytical fluency
+---
 
-🧩 Learning Approach
+## 🧩 Learning Approach
 
-The project follows a pattern of active synthesis, not passive transcription.
+To keep learning incremental and hands-on, I will:
 
-I will:
+1. Use **IPython** and **Jupyter Notebooks** for interactive exploration.  
+2. Recreate the book’s workflows using **pandas**, **NumPy**, and the scientific ecosystem.  
+3. Add visualizations using **matplotlib** and complementary tools.  
+4. Explore statistics and modeling with **SciPy**, **scikit-learn**, and **statsmodels**.  
+5. Explain every concept in **my own words**, ensuring deep comprehension.  
 
-Use IPython, pandas, matplotlib and try to use Jupyter for interactive, literate programming.
+Although inspired by the book, this project expands beyond it -  
+including additional experiments, datasets, and personal insights.
 
-Translate concepts from the book into minimal, functional, and well-commented code.
+---
 
-Explain each topic in my own words, focusing on why operations matter.
+## ⚙️ Tech Stack
 
-Build a growing set of notebooks that are clear, reproducible, and practical.
+- **Python 3.11+**  
+- **IPython**  
+- **Jupyter Notebook / VSCode**  
+- **pandas** (data manipulation)  
+- **NumPy** (vectorized computation)  
+- **matplotlib** (visualization)  
+- **SciPy** (scientific computing)  
+- **scikit-learn** (machine learning foundations)  
+- **statsmodels** (statistical modeling)
 
-Although this repository is inspired by the book, it remains
-my own interpretation, style, and implementation.
+---
 
-⚙️ Tech Stack
+## 🧭 Educational Philosophy
 
-Core environment for analysis and experiments:
+This project follows an **active recall + synthesis** approach.  
+Rather than copying formulas, I focus on:
 
-Python 3.11+
+- Understanding **how data structures behave**  
+- Learning **why operations work the way they do**  
+- Connecting Python code with **analytical reasoning**  
+- Building intuition around **data transformation and modeling**
 
-IPython / Jupyter Notebooks
+Each notebook is designed to be clear, modular, and **immediately reusable**  
+in real analytical workflows.
 
-pandas
+---
 
-NumPy
+## ⚠️ Disclaimer
 
-matplotlib
+This repository is a **personal learning synthesis**, created for educational purposes only.  
+All rights and credits for the original material belong to **Wes McKinney**,  
+**O’Reilly Media, Inc.**, and **Novatec** (Brazilian edition).
 
-SciPy
+If you notice improvements, corrections, or would like to contribute,  
+please feel free to open an issue — constructive feedback is always welcome. 🙌
 
-scikit-learn
+---
 
-statsmodels
+## 👤 About the Author
 
-This stack covers the entire spectrum:
-from data cleaning → statistics → visualization → machine learning.
+Maintained by **Marcos Silveira Gonzalez Júnior**, a data engineer passionate about  
+bridging **human reasoning**, **mathematical insight**, and **computational analysis**.
 
-🧭 Educational Philosophy
-
-My goal isn’t to memorize APIs -
-it’s to develop a mental model of how data flows through Python.
-
-This project embraces:
-
-Active recall, not rote repetition
-
-Incremental complexity, building from simple to advanced transforms
-
-Conceptual linking, connecting mathematical intuition with code
-
-Clarity over cleverness, keeping each example readable and direct
-
-By re-explaining each concept in my own way, I strengthen understanding and
-shape the knowledge into something usable and long-lasting.
-
-⚠️ Disclaimer
-
-This repository is a personal learning synthesis, created for educational purposes.
-All rights and credits for the original material belong to William Wesley McKinney,
-O’Reilly Media, Inc., and Novatec (Brazilian edition).
-
-If you spot mistakes or want to suggest enhancements,
-feel free to open an issue - constructive feedback is always welcome. 🙌
-
-👤 About the Author
-
-Maintained by Marcos Silveira Gonzalez Júnior,
-a data-driven developer exploring the intersection of
-scientific computing, analysis, and human reasoning.
-
-Focused on clarity, structured learning, and the integration of
-AI-assisted thinking with practical programming.
+Dedicated to creating resources that are **clear**, **structured**,  
+and **meaningful**, while exploring the power of Python for data literacy.
