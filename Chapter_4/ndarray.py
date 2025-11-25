@@ -28,3 +28,19 @@ print("Shape", data.shape, "\n")
 # Or it's type. dtype shows the datatype of an object. In this case,
 # the datatype of data.
 print("Type", data.dtype)
+
+# Now, let's transform an list into an array the array() method
+data_01 = [6, 7, 8, 9, 10]
+array_01 = np.array(data_01)
+print(array_01, "\n")
+
+# We can also transform a list lists in an array.
+data_02 = [[1, 2, 3, 4, 5], [6, 7, 8, 9, 10]]
+array_02 = np.array(data_02)
+print(array_02, "\n")
+
+# The .ndim attribute returns the number of dimensions
+# in an array. So we can check if the array has 2 dimensions
+print(f"Dimensions: {array_02.ndim}")
+# We can also print the first dimension of the array.
+print(f"First dimension: {array_02[0]}")

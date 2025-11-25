@@ -28,4 +28,12 @@ Basically, it's a scalar value.
 Let's show it in a .py code with randn function.
 The randn function generates random numbers from
 a standard normal distribution - or a gaussian distribution.
+Let's continue with ndarray by creating arrays.
+We'll use the array() method to transform
+a list into a array().
+PS: The difference between lists and arrays
+can be summarized in a simple line:
+Lists are flexible and it's size is not know;
+arrays have fixed sizes and have a better
+computational performance. We'll use the same file.
 """
